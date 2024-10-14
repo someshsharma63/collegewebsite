@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+nav.navbar.navbar-expand-lg{
+    background-color: #007075;
+
+}
+.login a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 32px;
+    background-color: #f37921;
+    border-radius: 30px;
+    font-size: 16px;
+}
+.login {
+     padding: 10px 32px; 
+    
+}
+a.navbar-brand {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+}
+.header a.nav-link 
+{
+    color: #fff;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.header li.nav-item {
+    padding: 0 12px;
+}
+.hero_section
+{
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.737),rgba(0, 0, 0, 0.737)),url("https://images.unsplash.com/photo-1649982294301-21a0668505a4?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+.hero-content{
+    color: #fff;
+    text-align: center;
+
+}
+.hero-content h4
+{
+    padding: 10px 0;
+}
+
+#aboutus
+{
+    background-color: #eeeeee;
+    padding: 3rem;
+}
+.aboutcontent{
+    text-align: center;
+}
+.about_pri
+{
+    text-align: justify;
+    color: black;
+}
+
+#gallery
+{
+    padding: 3rem;
+    background-color: gainsboro;
+}
+#courses
+{
+    background-color: #eeeeee;
+    padding: 3rem;
+}
+#footer
+{
+    background-color: gainsboro;
+    padding: 3rem;
+}
+.footer
+{
+    text-align: center;
+    color: #000;
+    font-size: 30px;
+    font-weight: bold;
+}
